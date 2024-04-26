@@ -1,0 +1,16 @@
+
+
+MONGO_URI = mongodb://127.0.0.1:27017
+
+JWT_SECRET=djgjkdshbgjkhfnjksdfhbnsjkdfsdhjfk
+
+ADMIN_SECRET_KEY= koregajiyuda
+
+NODE_ENV = DEVELOPMENT
+
+CLIENT_URL = frontend url
+
+
+CLOUDINARY_CLOUD_NAME = dkecawenu
+CLOUDINARY_API_KEY = 845436478792377
+CLOUDINARY_API_SECRET = IH1fQcmEKPg0tYbfS3VVarV_Ofg
